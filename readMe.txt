@@ -21,4 +21,4 @@ MAINTENANCE INSTRUCTIONS / NOTES FOR DEVS
 
 This script is fairly hacky, and will probably break in the future, should the salesForce web design change.
 The original script is not commented, however isn't complicated - it simply gets the href attributes of every <a> tag where className = "actionLink" on the page.
-After the user confirms the amount of links, each is navigated to by the browser in new tabs. Each should close shortly after, with the lot of downloads cued.
+After the user confirms the amount of links, each is navigated to by the browser in new tabs. Each should close shortly after, with the lot of downloads queued.
